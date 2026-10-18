@@ -1,0 +1,12 @@
+# 操作系统垃圾
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 安装时的自动备份
+*.bak
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
